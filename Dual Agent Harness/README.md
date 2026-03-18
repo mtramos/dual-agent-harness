@@ -120,33 +120,8 @@ git clone https://github.com/yourusername/dual-agent-harness.git
 cd dual-agent-harness
 
 # Open directly — no server needed
-open dual-agent-v4.html
+open index.html
 ```
-
----
-
-## Deploying to GitHub Pages
-
-1. Push this repo to GitHub
-2. Go to **Settings → Pages**
-3. Under **Source**, select **Deploy from a branch**
-4. Set branch to `main`, folder to `/ (root)`
-5. Save — your tool is live at `https://yourusername.github.io/dual-agent-harness`
-
-> Rename `dual-agent-v4.html` to `index.html` before pushing so the Pages URL opens the tool directly without needing to specify a filename.
-
----
-
-## GitHub repo settings
-
-**About (description):**
-> A browser-based dual-agent research harness. Compare Claude and Perplexity side by side, flag responses, run divergence analysis, and export structured session records. No server. Bring your own keys.
-
-**Website:** Your GitHub Pages URL once deployed.
-
-**Topics:** `ai` `llm` `research-tools` `claude` `perplexity` `productivity` `writing` `no-code`
-
-**Uncheck:** Packages, Releases (not relevant for a single-file tool)
 
 ---
 
