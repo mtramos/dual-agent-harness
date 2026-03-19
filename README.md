@@ -116,7 +116,7 @@ Single self-contained HTML file. No framework, no build step, no dependencies, n
 ## Running locally
 
 ```bash
-git clone https://github.com/yourusername/dual-agent-harness.git
+git clone https://github.com/mtramos/dual-agent-harness.git
 cd dual-agent-harness
 
 # Open directly — no server needed
